@@ -1,0 +1,72 @@
+/* Set Your Own Margin & Padding */
+h2, h3, p {
+	margin: 0;
+}
+
+/* Layout for Style Tile*/
+section {
+	margin: 20px 0;
+}
+
+.color-1,
+.color-2,
+.color-3,
+.pattern-1,
+.pattern-2,
+.pattern-3, 
+.imagery-1,
+.imagery-2,
+.imagery-3 {
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+/*Style Tile for Liz Anderson*/
+
+.color-1{
+
+background: black;
+
+}
+
+.color-2{
+
+background: red;
+
+}
+
+.color-3{
+
+background: teal;
+
+}
+
+.pattern-1{
+
+
+}
+.pattern-2{
+
+
+}
+.pattern-3{
+
+
+}
+.imagery-1{
+
+
+}
+.imagery-2{
+
+	
+}
+.imagery-3
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
