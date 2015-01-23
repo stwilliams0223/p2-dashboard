@@ -235,7 +235,7 @@ font-weight:bold;
 }
 
 
-a{
+.menu-right a{
 display:block;
 position:absolute;
 float:left;
@@ -251,7 +251,7 @@ a:hover{
 
 	color:teal;
 }
-span
+.menu-right span
 {
 margin-top:25px;
 display:block;
