@@ -7,46 +7,73 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Liz Anderson Account Balance</title>
+  <title>Account Summary</title>
 
   <link rel="stylesheet" type="text/css" href="css/semantic.css">
   <link rel="stylesheet" type="text/css" href="css/styles.css">
 
 </head>
 
-<body class="balance">
+<body class="account-summary">
+
   
-<table class="ui blue table">
+<div class="canvas-account-box">
+
+<h2 class="widget-header">Account Summary</h2>
+
+
+<table class="ui celled striped table">
   <thead>
+    <tr><th colspan="3">
+      Winter Quarter 2015
+    </th>
+  </tr></thead><tbody>
     <tr>
-      <th>Account Summary</th>
-      <th>Status</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>John</td>
-      <td>Approved</td>
-      <td>None</td>
+      <td class="collapsing">Account Balance
+      </td>
+      <td>$1,320.93</td>
+      <td class="right aligned collapsing" style="background:#B20000"><a href="#">More Details</a></td>
     </tr>
     <tr>
-      <td>Jamie</td>
-      <td>Approved</td>
-      <td>Requires call</td>
+      <td>
+        Term Charges
+      </td>
+      <td>$3,724.93</td>
+      <td class="right aligned collapsing" style="background:#B20000"><a href="#">More Details</a></td>
     </tr>
     <tr>
-      <td>Jill</td>
-      <td>Denied</td>
-      <td>None</td>
+      <td>
+        Term Credits and Payments
+      </td>
+      <td>$2,403.07</td>
+      <td class="right aligned collapsing" style="background:#B20000"><a href="#">More Details</a></td>
+    </tr>
+    <tr>
+      <td>
+        Term Balance
+      </td>
+      <td>$1,320.93</td>
+      <td class="right aligned collapsing"><div class="ui compact menu">
+  <div class="ui simple dropdown item">
+    <i class="dropdown icon"></i>
+    Term
+    <div class="menu">
+      <div class="item">Fall Qtr. 2014</div>
+      <div class="item">Spring Qtr. 2014</div>
+      <div class="item">Winter Qtr. 2014</div>
+    </div>
+  </div>
+</div></td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr><th>3 People</th>
-    <th>2 Approved</th>
-    <th></th>
-  </tr></tfoot>
 </table>
+
+
+
+
+
+  
+
   
   <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/semantic.js"></script>
