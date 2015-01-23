@@ -136,19 +136,56 @@ float:left;
 
 }
 
-.menu2{
 
-background: url("http://wac.450f.edgecastcdn.net/80450F/newstalkkit.com/files/2014/01/eastern-washington-university-e1390678552837.jpg");
-width: 500px;
-height: 218px;
+.menu-image{
+
+	position:fixed;
+	top:20px;
+	left:50px;
+	width: 200px
 
 
 }
 
+.weather{
 
-
-.element.style {
+	background: url("http://images.fineartamerica.com/images-medium-large-5/close-up-view-of-the-grass-in-a-garden-shot-from-ground-level-fizzy-image.jpg") no-repeat;
 
 }
 
+.weather h1{
+
+	color: white;
+padding-left: 62px;
+padding-top: 198px;
+font-size: 8em;
+	
+
+
+}
+
+.weather h2{
+
+color: white;
+padding-left: 38px;
+margin-top: -24px;
+font-size:3em;
+	
+
+}
+
+.ui.menu .item {
+font-size: 2rem;
+}
+
+.ui.menu .item hover{
+font-size: 2rem;
+}
+
+.ui.vertical.menu .item hover{
+
+
+background: pink
+
+}
 
