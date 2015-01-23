@@ -3,6 +3,14 @@ h2, h3, p {
 	margin: 0;
 }
 
+
+h2{
+
+background: #b20000;
+color: white;
+
+}
+
 /* Layout for Style Tile*/
 section {
 	margin: 20px 0;
@@ -34,13 +42,13 @@ background: black;
 
 .color-2{
 
-background: red;
+background: #b20000;
 
 }
 
 .color-3{
 
-background: teal;
+background: grey;
 
 }
 

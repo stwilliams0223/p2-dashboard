@@ -10,7 +10,7 @@
 
 .amount-due th{
 
-color:  teal;
+color:  cornflowerblue;
 font-size: 2em
 
 }
@@ -252,7 +252,7 @@ padding-left:70px;
 
 a:hover{
 
-	color:teal;
+	color:cornflowerblue;
 }
 
 
@@ -330,7 +330,7 @@ padding-left:10px;
 }
  .ui .divided .list a:hover{
 
-color:teal;
+color:cornflowerblue;
 }
 
 .recent-feedback .checkmark{
