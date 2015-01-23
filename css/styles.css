@@ -2,20 +2,153 @@
 
 .profile{
 
-	background: red;
+	background: #B20000;
 }
 
-/*Balance*/
+/*Amount Due*/
 
 
-.balance th{
+.amount-due th{
 
 color:  teal;
 font-size: 2em
 
 }
 
-.balance{
+/*Academic Profile*/
+
+.academic-profile{
 
 
 }
+
+/*Account Summary*/
+
+.account-summary{
+
+
+}
+
+/*Canvas-email*/
+
+.canvas-email{
+
+
+}
+
+
+/*Assignements Coming Up*/
+
+.coming-up{
+
+
+}
+
+/*Email*/
+
+.email{
+
+
+}
+
+/*Financial Aid*/
+
+.financial-aid{
+
+
+}
+
+/*Footer Menu*/
+
+.footer-menu{
+
+
+}
+
+/*Courses*/
+
+.my-courses{
+
+
+}
+
+/*Grades*/
+
+.my-grades{
+
+
+}
+
+/*Recent Feedback*/
+
+.recent-feedback{
+
+
+}
+
+/*Registration Date*/
+
+.registration-date{
+
+
+}
+
+/*Registration Tools*/
+
+.registration-tools{
+
+
+}
+
+/*Assignemtns To Do*/
+
+.to-do{
+
+
+}
+
+
+
+.ui.segment.attached{
+
+width: 356px;
+max-width: 356px;
+
+}
+
+.ui.segment{
+
+background: url("http://brucenorris11.files.wordpress.com/2011/01/blurry_20030715.jpg")
+
+}
+
+.profile-header{
+
+float:right;
+color:white;
+
+}
+
+.menu-profile1{
+
+float:left;
+
+
+}
+
+.menu2{
+
+background: url("http://wac.450f.edgecastcdn.net/80450F/newstalkkit.com/files/2014/01/eastern-washington-university-e1390678552837.jpg");
+width: 500px;
+height: 218px;
+
+
+}
+
+
+
+.element.style {
+
+}
+
+
