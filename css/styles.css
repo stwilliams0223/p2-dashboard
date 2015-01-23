@@ -279,9 +279,9 @@ margin-top:-25px;
 
 background: #B20000;
 color:white;
-padding-left:15px;
 padding-top:5px;
 border-radius: 10px 10px 0 0;
+text-align: center;
 
 }
 
@@ -296,5 +296,33 @@ text-align: center;
 a {
 color: white;
 text-decoration: none;
+}
+
+
+.canvas-assignment-box{
+
+
+background: gray;
+width: 356px;
+height: 356px;
+border-radius: 10px 10px 10px 10px;
+margin-top:-25px;
+
+
+}
+
+.canvas .list, .recent-feedback .list{
+
+padding-left:10px;
+
+}
+ .ui .divided .list a:hover{
+
+color:teal;
+}
+
+.recent-feedback .checkmark{
+
+	color:lime;
 }
 
