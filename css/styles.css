@@ -457,12 +457,14 @@ table tbody tr td.hour span {
 }
 
 
-.account-summary .table{
+.my-grades .table, .account-summary .table{
 
 margin-top:-15px;
 width: 356px
 
 }
+
+
 
 
 
